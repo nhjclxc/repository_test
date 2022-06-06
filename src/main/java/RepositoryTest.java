@@ -1,6 +1,5 @@
 /**
  * @author LuoXianchao
- * @date 2022/6/6 13:45
  */
 public class RepositoryTest {
     public static void main(String[] args) {
@@ -8,5 +7,6 @@ public class RepositoryTest {
 
         System.out.println(156156);//416
         System.out.println("你wwqcqw好");
+        //This token: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
     }
 }
